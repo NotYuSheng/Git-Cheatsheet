@@ -19,7 +19,7 @@ git init
 
 ## Branch
 ```
-git branch -m YuShengBranch
+git branch -m branchNameHere
 ```
 
 ## Adding files
