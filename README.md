@@ -1,4 +1,4 @@
-# Git-cheatsheet
+# Git-Cheatsheet
 
 ### Configure username & email
 ```
