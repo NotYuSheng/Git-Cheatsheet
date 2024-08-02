@@ -49,6 +49,11 @@ git restore --staged your-file
 git clone https://github.com/your-username/your-repository.git
 ```
 
+## Add Remote Repository
+```
+git remote add origin https://github.com/your-username/your-repository
+```
+
 ## Uploading Large file
 ### Step 1: Install Git and Git LFS
 ```
